@@ -1,0 +1,7 @@
+{
+  "name": "VeriSight AI Detector",
+  "description": "A sophisticated forensic tool that uses Gemini's advanced vision capabilities to analyze images and video frames for AI-generated artifacts, lighting inconsistencies, and procedural textures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
